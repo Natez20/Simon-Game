@@ -1,4 +1,4 @@
-# Simon Game 🎮
+Simon Game
 
 A fun and interactive memory game built using **HTML**, **CSS**, and **JavaScript**. 
 Inspired by the classic Simon game, this project challenges players to repeat an increasingly complex sequence of colors and sounds.
@@ -14,7 +14,6 @@ Inspired by the classic Simon game, this project challenges players to repeat an
 
 - Dynamic difficulty progression
 - Sound effects for each color
-- Smooth animations
 - Responsive design
 
 🚀 Tech Stack
